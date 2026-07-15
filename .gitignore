@@ -1,6 +1,6 @@
 secrets.yml
 
-.env\
+.env
 
 logs/
 
